@@ -16,7 +16,7 @@ iv.	 Random Forest.
 v.	 Lasso regression with scaled values.
 
 Hyperparameters:
-Look for the hyper parameters which have improve maximum performance.
+I looked for the hyper parameters which with maximum performance.
 
 Data preparation:
 I tried different versions of data normalization and imputation.
